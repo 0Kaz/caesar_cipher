@@ -5,6 +5,8 @@ In cryptography, its one of the simplest most known encryption technique, the id
 **Example** 
 
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
+
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 We shifted the letters positions by 3 on the right side. 
